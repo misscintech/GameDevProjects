@@ -10,7 +10,7 @@ Made with Monogame C# but you can check out the details here: [insert link here]
 ### The Unfortunate Case Of Aria Grace
 Sequel game to "Rise of the Owl: Cold Cases". 
 ### Rise of the Owl: Cold Cases
-Used wordpress to "game-ify" a blog that no longer exists. 
+Used wordpress to "game-ify" a blog that no longer exists. [https://github.com/misscintech/Rise-of-the-Owl-Cold-Cases-Post-Mortem/blob/main/README.md]
 ### What's The Story?
 My first solo project was made with GameMakerStudio2. You can play it here: [https://chickenstarrocketgames.itch.io/whats-the-story]
 ## Group Projects:
