@@ -6,7 +6,7 @@ My first choose-your-own-adventure based on dungeons and dragons 5e, you meet th
 ### Among Us IRL
 Based on the game "Among Us". My first game packet, meant to play with friends, here is the post that goes with it. Link: [https://chickenstarrocketgames.itch.io/chickenstarrockets-among-us-irl-packet]
 ### June's Butterfly Scavenger Hunt
-Made with Monogame C# but you can check out the details here: [insert link here]
+Made with Monogame C# but you can check out the details here: [https://github.com/misscintech/Monogame-C-Final-Project/tree/main]
 ### The Unfortunate Case Of Aria Grace
 Sequel game to "Rise of the Owl: Cold Cases". 
 ### Rise of the Owl: Cold Cases
